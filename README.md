@@ -1,9 +1,8 @@
 # General Information
 
-This Readme contains information about using the Brennenstuhl Connect Wifi Eco Line (WS EL01 DE) power strip with Tasmota
-Tasmota related informations about the [Brennenstuhl Connect Wifi Eco Line WS EL01 DE](https://www.brennenstuhl.com/de-DE/produkte/smart-home/brennenstuhl-connect-eco-line-wifi-steckdosenleiste-1-5m-h05vv-f3g1-5-schwarz) power strip.
+This Readme contains information about using the [Brennenstuhl Connect Wifi Eco Line WS EL01 DE](https://www.brennenstuhl.com/de-DE/produkte/smart-home/brennenstuhl-connect-eco-line-wifi-steckdosenleiste-1-5m-h05vv-f3g1-5-schwarz) power strip with Tasmota.
 
-The device can be flashed to tasmota (as of 2020-10-16) with [tuya-convert](https://github.com/ct-Open-Source/tuya-convert)
+The device can be flashed to Tasmota (as of 2020-10-16) with [tuya-convert](https://github.com/ct-Open-Source/tuya-convert)
 
 <font color=Red>**WARNING**</font> There is no easy way to go back to the original firmware after flashing to Tasmota! The only way to flash the original firmware is to use a serial connection, which requires disassembling the device and soldering! So keep that in mind!
 
